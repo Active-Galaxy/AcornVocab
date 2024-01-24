@@ -1,99 +1,227 @@
-﻿WORD or PHRASE,,CATEGORY
-AlAddin's cave,,1
-baby blob,,1
-garden shaft,,1
-Lot 5,,1
-money pit,,1
-Oak Island,,1
-south shore,,1
-stone (road | path | slipway),,1
-swamp,,1
-triangle,,1
-wharf,,1
-depositor,,2
-Mason,,2
-privateer,,2
-searcher,,2
-Sir William Phipps,,2
-Templar,,2
-(later that | following)(morning | day),,3
-could it be,,3
-possibly date back,,3
-bore hole ,,4
-cave | cavern,,4
-cavity,,4
-chamber,,4
-circular (feature | depression),,4
-flood,,4
-flood tunnel,,4
-offset chamber,,4
-sailing vessel | ship | marine,,4
-shaft,,4
-stone,,4
-stone (construct | feature | structure),,4
-stone slab,,4
-tunnel,,4
-void,,4
-wall,,4
-water,,4
-buried | hidden,,5
-deliberately | intentionally,,5
-determined,,5
-evidence,,5
-man made | not natural,,5
-mysterious | mystery,,5
-possible,,5
-potential,,5
-religious,,5
-scientific,,5
-top pocket,,5
-90 foot stone,,6
-artifact,,6
-barrels,,6
-barter token,,6
-Bobby Dazluh,,6
-chain,,6
-chest,,6
-coins,,6
-copper,,6
-gold,,6
-grail,,6
-hook,,6
-jewelry,,6
-lead cross,,6
-map,,6
-nail,,6
-oxen [shoe],,6
-precious metal,,6
-ring,,6
-silver,,6
-treasure,,6
-wood,,6
-ct scanner,,7
-metal | metallurgy,,7
-metal detector,,7
-scan,,7
-xrf,,7
+﻿118,,6
+170,,6
+183,,6
+1897,,10
 1100's,,10
 1200's,,10
 1300's,,10
 1400's,,10
 1500's,,10
 1600's,,10
+1650,,10
+1687,,10
 1700's,,10
+1762,,10
 1800's,,10
-old,,10
-time period,,10
+500-year-old,,10
+AlAddin's cave,,1
 Alex,,11
+amazing,,5
+analysis,,7
+ancient,,10
+Andrew,,11
+anomaly,,4
+answer,,7
+archaeologist,,8
+artifact,,6
+baby blob,,1
+barrel,,6
+barter token,,6
+beach,,1
+bead,,6
+bead,,6
+believe,,5
 Billy,,11
+Bobby Dazluh,,6
+bolt,,6
+borehole | bore hole,,7
+brackish (pond | bog),,1
+buried,,5
+C14,,7
+caisson,,4
+carbon (date | dating),,7
+cargo,,6
 Carmen,,11
+carved,,6
+cassion,,7
+cave | cavern,,4
+cavity,,4
+century,,10
+chain,,6
+chamber,,4
+Chapel vault,,1
+Charles,,11
+chest,,6
+Christ,,11
+church | chapel,,4
+circular (feature | depression),,1
+clue,,7
+cobble (stone | stones),,4
+coins,,6
+collapse,,4
+compelling,,5
+Concepcion,,1
+cool,,9
+copper,,6
+could it be,,3
 Craig,,11
+ct scan,,7
+curious,,5
+date | dating,,10
+deep,,5
+deliberately | intentionally | artificially | purposely,,5
+depositor,,2
+detect,,7
+determined,,5
+dig,,7
+discover,,7
+dowel,,6
+drill,,7
+Dumas,,11
+early,,10
 Emma,,11
+encapsulate,,5
+England,,1
+european,,1
+evidence,,5
+excavate,,7
+excited,,5
+expert,,8
+fastener,,6
+Fiona,,11
+flood,,4
+flood tunnel,,4
+Fred,,11
+Frederick,,11
+Freemason,,2
+garden shaft,,1
+garnet,,6
 Gary,,11
+geez,,9
+geofoam,,7
+geoscientist,,8
+glass,,6
+gold,,6
+grail,,6
+H8,,1
+hand-forged,,6
+heck,,9
 Helen,,11
+hey,,9
+hidden | hide,,5
+holy,,5
+hook,,6
+hope,,5
+huge,,5
+identify,,7
+Ideon,,11
+important,,5
+incredible,,5
+inflow,,4
+iron,,6
+Italy,,1
 Jack,,11
+Jamie,,11
+jewelry,,6
+Jonathan,,11
+K6,,1
 Laird,,11
+lead cross,,6
+Lindy,,11
+look-at-that,,9
+Lot 5,,1
+Mahone Bay,,1
+man made | not natural |human-made,,5
+map,,6
 Marty,,11
+Mason,,2
+massive,,5
+maybe,,5
+medieval,,10
+metal | metallurgy,,7
+metal detector,,7
+money pit,,1
+muon,,7
+mystery,,5
+nail,,6
+natural,,5
+no way,,9
+Nova Scotia,,1
+Oak Island,,1
+offset chamber,,4
+okey dokey,,9
+old,,10
+ox,,6
+oxen,,6
+Paul,,11
+peat,,4
 Peter,,11
+Phipps,,2
+Portugal,,1
+possible,,5
+possibly date back,,3
+potential,,5
+pottery,,6
+precious metal,,6
+privateer,,2
+probably,,5
+proven,,5
+pump,,7
+religious,,5
+religious relic,,6
 Rick,,11
+right angle,,5
+ring,,6
+roller,,4
+Roman numeral,,6
+rose head,,6
+Santa Maria,,1
+scan,,7
+scientific,,5
+Scott,,11
+searcher,,2
+secret,,5
+shaft,,4
+ship | marine | sailing vessel,,6
+shitload,,9
+silver,,6
+Smith's Cove,,1
+solve,,7
+sonar,,7
+south shore,,1
+southern edge,,1
+spike,,6
+spooner,,11
+square | rectangle ,,6
+Steve,,11
+stone,,4
+stone ( structure | construct | feature ),,1
+stone (road | path | slipway | pathway),,1
+stone (slab | <90 foot),,6
+survey,,7
+swamp,,1
+symbol,,6
+Templar,,2
+Terry,,11
+that's gorgeous,,9
+theory,,5
+time (period | frame | <at the | line),,10
+timeline,,10
+top pocket,,5
+treasure,,6
+triangle,,1
+tunnel,,4
+unearthed,,5
+valuable,,5
+Venitian,,6
+video,,7
+void,,4
+wall,,4
+well,,4
+wharf,,1
+William,,11
+woah,,9
+wood,,6
+xrf,,7
+year,,10
 Zena,,11
