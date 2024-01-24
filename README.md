@@ -1,4 +1,6 @@
 ![Vocab count from S11E9](Vocab.S11E9.JPG)
+
+![Wordcloud from S11E10](S11E10.BW2.out.jpg)
 # Acorn Vocab
 ## A vocabulary template from the Curse of Oak Island tv show. 
 The template shows words or phrases of interest heard during the show and a category index which groups words of similar use (place names, artifact types, peoples names). These words and categories may change from episode to episode.  Some of the words were chosen to illuminate the style of speaking about something (the treasure) which may not exist (_mysterious, possible, potential_).
