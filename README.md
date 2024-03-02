@@ -1,5 +1,5 @@
 ![Vocab count from S11E9](Vocab.S11E9.JPG)
-
+![Mystery](MysteryNeverEnds.JPG)
 ![Wordcloud from S11E10](S11E10.BW2.out.jpg)
 # Acorn Vocab
 ## A vocabulary template from the Curse of Oak Island tv show. 
